@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Quickstart
+/quickstart/Api/bin/Debug/netcoreapp3.1
+/quickstart/Api/obj
+/quickstart/Client/bin/Debug/netcoreapp3.1
+/quickstart/Client/obj
+/quickstart/IdentityServer/.vs/IdentityServer
+/quickstart/IdentityServer/bin/Debug/netcoreapp3.1
+/quickstart/IdentityServer/obj
+/quickstart/IdentityServer/tempkey.rsa
+/Mvc/bin/Debug/netcoreapp3.1
+/Mvc/obj
+/quickstart/Mvc/bin/Debug/netcoreapp3.1
+/quickstart/Mvc/obj
